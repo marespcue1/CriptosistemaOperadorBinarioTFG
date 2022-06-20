@@ -1,0 +1,19 @@
+# GLOBALES DE PRUEBAS
+GLOBRM1 = None
+GLOBRM2 = None
+GLOBRM3 = None
+GLOBRM4 = None
+GLOBDSM = None
+GLOBmixed_img = None
+GLOBIV = None
+GLOBimg_ACM = None
+GLOBimg_mixedRows = None
+GLOBimg_encoded = None
+GLOBimg_decoded = None
+GLOBimg_sub = None
+GLOBorig = None
+VARIABLES = None
+ICMIV = None
+EXPXIV = None
+EXPYIV = None
+CONT = 0
