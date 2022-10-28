@@ -1,5 +1,5 @@
-# CriptosistemaOperadorBinarioTFG
-Código generado para crear el criptosistema para el proyecto del Trabajo de Fin de Grado.
+# Un criptosistema para imágenes médicas basado en un nuevo operado
+Código y documentación que se ha generado relacionado con el criptosistema para el proyecto del Trabajo de Fin de Grado.
 Se incluye también la documentación en Version-Final-TFG.pdf
 
 ## Resumen
